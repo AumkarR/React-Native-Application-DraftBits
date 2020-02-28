@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.draftbit.changeme"
+    },
+    "name": "Untitled App",
+    "slug": "untitled_app",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#000000",
+      "image": "assets/images/splash.png"
+    },
+    "android": {
+      "package": "com.draftbit.changeme",
+      "permissions": []
+    },
+    "privacy": "unlisted",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "sdkVersion": "34.0.0",
+    "description": "My app powered by Draftbit",
+    "orientation": "default",
+    "notification": {
+      "androidMode": "default"
+    },
+    "primaryColor": "#000000",
+    "version": "1.0.0",
+    "icon": "assets/images/icon.png"
+  }
+}
